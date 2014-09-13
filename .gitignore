@@ -53,3 +53,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Vim
+*.swp
+
+# Secrets
+secrets.yml
